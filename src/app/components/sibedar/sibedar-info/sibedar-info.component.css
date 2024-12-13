@@ -1,0 +1,20 @@
+.content-sidebar__info__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.content-sidebar__info__item h5 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.content-sidebar__info__item p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+}
